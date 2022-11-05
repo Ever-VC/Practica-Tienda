@@ -34,7 +34,14 @@ CREATE TABLE tbl_producto(
 
 -> IMAGENES DEL SISTEMA <-
 
-[![Inicio-Form-Principal.jpg](https://i.postimg.cc/3N8JZ3p5/Inicio-Form-Principal.jpg)](https://postimg.cc/ftPNznBB)
+FORMULARIO PRINCIPAL: 
+
+
+![Inicio_Form_Principal](https://user-images.githubusercontent.com/102596002/200101068-b0922301-bade-4007-92ed-7443e50f9823.jpg)
+
+
+FORMULARIO SECUNDARIO:
+
 
 ![Inicio_Form_Secundario](https://user-images.githubusercontent.com/102596002/200101007-0aa5d4f0-02f1-45cb-b8d6-c2c844a827b7.jpg)
 
