@@ -36,4 +36,5 @@ CREATE TABLE tbl_producto(
 
 [![Inicio-Form-Principal.jpg](https://i.postimg.cc/3N8JZ3p5/Inicio-Form-Principal.jpg)](https://postimg.cc/ftPNznBB)
 
-[![Inicio-Form-Secundario.jpg](https://i.postimg.cc/xTVBh6F8/Inicio-Form-Secundario.jpg)](https://postimg.cc/yWnfSyKC)
+![Inicio_Form_Secundario](https://user-images.githubusercontent.com/102596002/200101007-0aa5d4f0-02f1-45cb-b8d6-c2c844a827b7.jpg)
+
