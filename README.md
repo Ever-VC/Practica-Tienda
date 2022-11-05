@@ -32,4 +32,8 @@ CREATE TABLE tbl_producto(
 );
 
 
+-> IMAGENES DEL SISTEMA <-
+
 [![Inicio-Form-Principal.jpg](https://i.postimg.cc/3N8JZ3p5/Inicio-Form-Principal.jpg)](https://postimg.cc/ftPNznBB)
+
+[![Inicio-Form-Secundario.jpg](https://i.postimg.cc/xTVBh6F8/Inicio-Form-Secundario.jpg)](https://postimg.cc/yWnfSyKC)
