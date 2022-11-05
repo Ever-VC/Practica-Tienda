@@ -81,7 +81,7 @@ public class NuevoProveedor extends javax.swing.JFrame {
         });
         jScrollPane1.setViewportView(jTablaDatos);
 
-        txtId.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "NOMBRE DEL PROVEEDOR:", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("SansSerif", 1, 12))); // NOI18N
+        txtId.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "ID DEL PROVEEDOR:", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("SansSerif", 1, 12))); // NOI18N
 
         btnGuardar.setBackground(new java.awt.Color(28, 109, 66));
         btnGuardar.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
@@ -273,7 +273,7 @@ public class NuevoProveedor extends javax.swing.JFrame {
         try {
             //*************************************************************************************************************************************************
                                             //"url", "user", "password"
-            con= DriverManager.getConnection(url,"user", "password");//<- **************** AQUI VA SU CONTRASEÑA **************************************
+            con= DriverManager.getConnection(url,"postgres", "S4mu3lcoc#27");//<- **************** AQUI VA SU CONTRASEÑA **************************************
             //*************************************************************************************************************************************************
             System.out.println("EL FORMULARIO SECUNDARIO SE HA CONECATADO A LA BASE DE DATOS");
         } catch (SQLException ex) {

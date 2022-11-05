@@ -424,7 +424,7 @@ public class frmPrincipal extends javax.swing.JFrame {
         try {
             //*************************************************************************************************************************************************
                                             //"url", "user", "password"
-            con= DriverManager.getConnection(url,"user", "password");//<- **************** AQUI VA SU CONTRASEÑA **************************************
+            con= DriverManager.getConnection(url,"postgres", "S4mu3lcoc#27");//<- **************** AQUI VA SU CONTRASEÑA **************************************
             //*************************************************************************************************************************************************
             System.out.println("EL FORMULARIO PRINCIPAL SE HA CONECATADO A LA BASE DE DATOS");
         } catch (SQLException ex) {
